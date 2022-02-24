@@ -10,8 +10,8 @@ var BRAY_SN;
     var wrapper=document.createElement("div"),
     frame=document.createElement("iframe");
     frame.src="https://www.google.com/fbx?fbx=snake_arcade";
-    frame.width=333; // additional 30px to hide scrollbars
-    frame.height=461;
+    frame.width=533; // additional 30px to hide scrollbars
+    frame.height=661;
     frame.scrolling="no";
     applyStyles(frame,{
       position:'absolute',
