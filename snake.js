@@ -11,7 +11,7 @@ var BRAY_SN;
     frame=document.createElement("iframe");
     frame.src="https://www.googlesnake.com/snakedesktop.php";
     frame.width=733; // additional 30px to hide scrollbars
-    frame.height=861;
+    frame.height=661;
     frame.scrolling="no";
     applyStyles(frame,{
       position:'absolute',
