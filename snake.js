@@ -11,7 +11,7 @@ var BRAY_SN;
     frame=document.createElement("iframe");
     frame.src="https://www.googlesnake.com/snakedesktop.php";
     frame.width=733; // additional 30px to hide scrollbars
-    frame.height=661;
+    frame.height=461;
     frame.scrolling="no";
     applyStyles(frame,{
       position:'absolute',
@@ -26,7 +26,7 @@ var BRAY_SN;
       bottom:"10px",
       left:"10px",
       width:"600px",
-      height:"675px",
+      height:"600px",
       overflow:"hidden",
       transition:"opacity 0.1s",
       borderRadius:"6px",
