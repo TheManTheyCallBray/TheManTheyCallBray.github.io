@@ -15,7 +15,7 @@ var BRAY_SN;
     frame.scrolling="no";
     applyStyles(frame,{
       position:'absolute',
-      top:'-53.5px',
+      top:'-43.5px',
       left:'-27px',
       border:"none"
     });
@@ -25,7 +25,7 @@ var BRAY_SN;
       display:"block",
       bottom:"10px",
       left:"10px",
-      width:"600px",
+      width:"500px",
       height:"600px",
       overflow:"hidden",
       transition:"opacity 0.1s",
