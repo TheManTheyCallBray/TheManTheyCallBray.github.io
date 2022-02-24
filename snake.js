@@ -1,7 +1,7 @@
 var BRAY_SN;
 (function() {
   'use strict';
-  if (BRAY_2048) {
+  if (BRAY_SN) {
     BRAY_SN();
   } else {
     function applyStyles(elem,obj) {
