@@ -10,7 +10,7 @@ var BRAY_SN;
     var wrapper=document.createElement("div"),
     frame=document.createElement("iframe");
     frame.src="https://www.googlesnake.com/snakedesktop.php";
-    frame.width=533; // additional 30px to hide scrollbars
+    frame.width=633; // additional 30px to hide scrollbars
     frame.height=861;
     frame.scrolling="no";
     applyStyles(frame,{
