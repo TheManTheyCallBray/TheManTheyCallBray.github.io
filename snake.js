@@ -25,7 +25,7 @@ var BRAY_SN;
       display:"block",
       bottom:"10px",
       left:"10px",
-      width:"600px",
+      width:"585px",
       height:"610px",
       overflow:"hidden",
       transition:"opacity 0.1s",
