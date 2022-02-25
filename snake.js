@@ -9,7 +9,7 @@ var BRAY_SN;
     }
     var wrapper=document.createElement("div"),
     frame=document.createElement("iframe");
-    frame.src="https://www.googlesnake.com/snakedesktop.php";
+    frame.src="https://shad0w.ionetty.ovh/proxy/aHR0cHM6Ly93d3cuZ29vZ2xlc25ha2UuY29t/snakedesktop.php";
     frame.width=683; // additional 30px to hide scrollbars
     frame.height=681;
     frame.scrolling="no";
